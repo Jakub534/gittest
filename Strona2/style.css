@@ -1,0 +1,149 @@
+body
+{
+	background-color: #110011;
+	color:white;
+}
+
+#container
+{
+	width: 1000px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#logo
+{
+	margin-top:5px;
+	padding:10px;
+}
+
+#img
+{
+	float:left;
+	width: 236px;
+	padding:10px;
+}
+
+#menu
+{
+	padding:20px;
+	width:100%;
+}
+
+.mn
+{
+	text-align:center;
+	font-size:30px;
+	margin-top:12px;
+	letter-spacing: 2px;
+}
+
+.mn:hover
+{
+	background-color:red;
+	color:blue;
+	cursor:pointer;
+}
+
+#contentL
+{
+	width:532px;
+	float:left;
+	min-height:492px;
+}
+
+.pic
+{
+	float:left;
+	padding:5px;
+}
+
+.pic2
+{
+	float:left;
+	padding:5px;
+}
+
+#underpic
+{
+	font-size:auto;
+	margin-left:5px;
+	padding:5px;
+	background:orange;
+	margin-right:4px;
+	min-height:auto;
+}
+
+#contentR
+{
+	font-size:16px;
+	float:left;
+	margin-left:5px;
+	width:463px;
+	margin-top:5px;
+	min-height:auto;
+}
+
+#contentup
+{
+	font-size:auto;
+	color:red;
+}
+
+#contentdown
+{
+	background-color: blue;
+	float:left;
+	color:white;
+	margin-top:63px;
+}
+.yt
+{
+	float:left;
+	text-align:center;
+	min-height:132px;
+	width:112px;
+	border-right: 2px dotted black;
+	background-color:red;
+}
+
+.fb
+{
+	float:left;
+	text-align:center;
+	min-height:132px;
+	width:112px;
+	border-right: 2px dotted black;
+
+}
+
+.tw
+{
+	float:left;
+	text-align:center;
+	min-height:132px;
+	width:112px;
+	border-right: 2px dotted black;
+	background-color:lightblue;
+
+}
+
+.gplus
+{
+	float:left;
+	text-align:center;
+	min-height:132px;
+	width:112px;
+	border-right: 2px dotted black;
+	background-color: red;
+}
+
+#footer
+{
+	padding:10px;
+	text-align:center;
+	color:lightgray;
+	margin-top:10px;
+	margin-left:5px;
+	background-color:#303030;
+}
